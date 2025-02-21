@@ -1,5 +1,5 @@
 function Home(){
-    return <>Frase de impacto</>
+    return <h1>Frase de impacto BOOM!</h1>
 }
 
 export default Home;
